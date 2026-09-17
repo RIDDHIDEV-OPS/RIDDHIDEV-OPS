@@ -260,10 +260,7 @@ I am passionate about turning complex ideas into high-impact software—from **G
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RIDDHIDEV-OPS&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIDEV-OPS&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RIDDHIDEV-OPS&theme=tokyonight" alt="Most commit languages" />
 </p>
 
 ## 🏆 Achievements
