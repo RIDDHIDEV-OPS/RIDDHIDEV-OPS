@@ -266,8 +266,8 @@ I am passionate about turning complex ideas into high-impact software—from **G
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIDEV-OPS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDDHIDEV-OPS&theme=tokyonight" alt="GitHub profile details" />
+  <img height="195" src="https://raw.githubusercontent.com/RIDDHIDEV-OPS/RIDDHIDEV-OPS/main/github-animated-streak.svg" alt="Live GitHub Streak Monitor" />
+  <img height="195" src="https://raw.githubusercontent.com/RIDDHIDEV-OPS/RIDDHIDEV-OPS/main/github-animated-profile-details.svg" alt="Live Profile Details & Contribution Graph" />
 </p>
 
 ## 🏆 Achievements

@@ -1,0 +1,134 @@
+<svg width="420" height="195" viewBox="0 0 420 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="stkBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#11121d" />
+      <stop offset="50%" stop-color="#151728" />
+      <stop offset="100%" stop-color="#1a1b2e" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="stkBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff79c6" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#70a5fd" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#00f5d4" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Flame Gradient -->
+    <linearGradient id="stkFlameGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f" />
+      <stop offset="55%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fef08a" />
+    </linearGradient>
+
+    <!-- Ring Gradient -->
+    <linearGradient id="stkRingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5d4" />
+      <stop offset="50%" stop-color="#7928ca" />
+      <stop offset="100%" stop-color="#ff007f" />
+    </linearGradient>
+
+    <style>
+      @keyframes flamePulse {
+        0%, 100% { filter: drop-shadow(0 0 4px #f59e0b); transform: scale(1); }
+        50% { filter: drop-shadow(0 0 12px #ff007f); transform: scale(1.08); }
+      }
+      @keyframes ringSpin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes streakGlow {
+        0%, 100% { text-shadow: 0 0 3px #00f5d4; }
+        50% { text-shadow: 0 0 10px #00f5d4, 0 0 20px #70a5fd; }
+      }
+      @keyframes liveBlink {
+        0%, 100% { fill: #00e676; filter: drop-shadow(0 0 2px #00e676); }
+        50% { fill: #00f5d4; filter: drop-shadow(0 0 8px #00f5d4); }
+      }
+      @keyframes numberBreath {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.04); }
+      }
+
+      .flame-icon {
+        transform-origin: 210px 68px;
+        animation: flamePulse 2s ease-in-out infinite;
+      }
+      .ring-orbit {
+        transform-origin: 210px 106px;
+        animation: ringSpin 14s linear infinite;
+      }
+      .live-dot {
+        animation: liveBlink 1.8s ease-in-out infinite;
+      }
+      .num-breath {
+        transform-origin: 210px 106px;
+        animation: numberBreath 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="0.6" y="0.6" width="418.8" height="193.8" rx="12" fill="url(#stkBgGrad)" stroke="url(#stkBorderGrad)" stroke-width="1.2"/>
+
+  <!-- Top Micro Header -->
+  <rect x="1" y="1" width="418" height="28" rx="12" fill="#171827" fill-opacity="0.8"/>
+  <line x1="1" y1="29" x2="419" y2="29" stroke="#252a42" stroke-width="0.8"/>
+
+  <circle cx="16" cy="15" r="3.5" class="live-dot"/>
+  <text x="26" y="18.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="9" fill="#00f5d4" letter-spacing="1">STREAK &amp; CADENCE TELEMETRY</text>
+
+  <rect x="330" y="7" width="76" height="16" rx="8" fill="#1b2836" stroke="#00f5d4" stroke-width="0.7"/>
+  <text x="368" y="18" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="8" fill="#00f5d4">● LIVE SYNC</text>
+
+  <!-- ================= COLUMN 1: TOTAL CONTRIBUTIONS ================= -->
+  <g transform="translate(68, 0)">
+    <text x="0" y="85" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="28" fill="#70a5fd">111+</text>
+    <text x="0" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#c9d1d9">Total Contributions</text>
+    <text x="0" y="126" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-weight="500" font-size="9" fill="#00f5d4">Sep 21, 2024 – Present</text>
+    
+    <!-- Mini Progress Sparkline -->
+    <rect x="-42" y="142" width="84" height="4" rx="2" fill="#1b1e2e"/>
+    <rect x="-42" y="142" width="76" height="4" rx="2" fill="#70a5fd"/>
+    <text x="0" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="8.5" fill="#8b949e">⚡ Consistency: High</text>
+  </g>
+
+  <!-- Vertical Divider 1 -->
+  <line x1="138" y1="42" x2="138" y2="175" stroke="#252a42" stroke-width="1"/>
+
+  <!-- ================= COLUMN 2: CURRENT STREAK (CENTER GAUGE) ================= -->
+  <g>
+    <!-- Background Ring -->
+    <circle cx="210" cy="106" r="42" fill="#141624" stroke="#22273c" stroke-width="2"/>
+    <!-- Outer Spinning Dotted Ring -->
+    <circle cx="210" cy="106" r="48" fill="none" stroke="#70a5fd" stroke-width="1.2" stroke-dasharray="5,6" class="ring-orbit"/>
+    <!-- Glowing Arc Track -->
+    <circle cx="210" cy="106" r="42" fill="none" stroke="url(#stkRingGrad)" stroke-width="3" stroke-dasharray="210, 60" stroke-linecap="round"/>
+
+    <!-- Flame Icon -->
+    <g class="flame-icon">
+      <path d="M 210 56 C 213 62, 218 66, 218 72 C 218 78, 214 82, 210 82 C 206 82, 202 78, 202 72 C 202 65, 207 61, 210 56 Z" fill="url(#stkFlameGrad)"/>
+      <path d="M 210 66 C 211 69, 214 71, 214 74 C 214 76, 212 79, 210 79 C 208 79, 206 76, 206 74 C 206 71, 209 68, 210 66 Z" fill="#ffffff"/>
+    </g>
+
+    <!-- Current Streak Number -->
+    <text x="210" y="115" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="24" fill="#ffffff" class="num-breath">1</text>
+    <text x="210" y="132" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="10.5" fill="#ff79c6">Current Streak</text>
+    <text x="210" y="166" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-weight="600" font-size="9" fill="#00e676">● ACTIVE TODAY</text>
+  </g>
+
+  <!-- Vertical Divider 2 -->
+  <line x1="282" y1="42" x2="282" y2="175" stroke="#252a42" stroke-width="1"/>
+
+  <!-- ================= COLUMN 3: LONGEST STREAK ================= -->
+  <g transform="translate(352, 0)">
+    <text x="0" y="85" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="28" fill="#ffd700">4</text>
+    <text x="0" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#c9d1d9">Longest Streak</text>
+    <text x="0" y="126" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-weight="500" font-size="9" fill="#8b949e">Sep 5 – Sep 8</text>
+
+    <!-- Mini Progress Sparkline -->
+    <rect x="-42" y="142" width="84" height="4" rx="2" fill="#1b1e2e"/>
+    <rect x="-42" y="142" width="84" height="4" rx="2" fill="#ffd700"/>
+    <text x="0" y="162" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="8.5" fill="#8b949e">🏆 Sprint Target Met</text>
+  </g>
+</svg>
