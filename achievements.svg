@@ -75,12 +75,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_c4c)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_c4c)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_c4c)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="5" fill="#ffffff">1st</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Create4Cause</text>
@@ -95,12 +95,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_gsa)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_gsa)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_gsa)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">Lead</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Google GSA</text>
@@ -115,12 +115,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_hacktober)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_hacktober)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_hacktober)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">Super</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Hacktoberfest</text>
@@ -135,12 +135,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_gssoc)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_gssoc)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_gssoc)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="5" fill="#ffffff">AI</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">GSSoC 2026</text>
@@ -155,12 +155,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_iitkgp)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_iitkgp)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_iitkgp)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">Final</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">IIT Kharagpur</text>
@@ -175,12 +175,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_nexathon)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_nexathon)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_nexathon)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">Star</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">NEXATHON 1.0</text>
@@ -195,12 +195,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_arcade)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_arcade)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_arcade)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">Cloud</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Google Arcade</text>
@@ -215,12 +215,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_cllmsp)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_cllmsp)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_cllmsp)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">CLLM</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">LLM Security</text>
@@ -235,12 +235,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_msft_ai)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_msft_ai)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_msft_ai)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">Agent</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Microsoft AI</text>
@@ -255,12 +255,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_google_ai)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_google_ai)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_google_ai)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="5" fill="#ffffff">Pro</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Google AI</text>
@@ -275,12 +275,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_genai_lead)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_genai_lead)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_genai_lead)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="4.2" fill="#ffffff">Lead</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">GenAI Leader</text>
@@ -295,12 +295,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_oracle)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_oracle)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_oracle)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="5" fill="#ffffff">OCI</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Oracle Cloud</text>
@@ -315,12 +315,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_neo4j)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_neo4j)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_neo4j)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="5" fill="#ffffff">GDS</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Neo4j Graph</text>
@@ -335,12 +335,12 @@
     <rect x="0.5" y="0.5" width="109" height="109" rx="6" fill="#1a1b27" stroke="#2e3440" stroke-width="1"/>
     
     <!-- Trophy Cup Graphic -->
-    <svg x="28" y="20" width="54" height="54" viewBox="0 0 16 16" fill="url(#grad_unstop)">
+    <g transform="translate(28, 20) scale(3.375)" fill="url(#grad_unstop)">
       <path d="M2.5 1h11a.5.5 0 0 1 .5.5v1a4.5 4.5 0 0 1-4 4.473V8.5h1.5a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5H5V6.973A4.5 4.5 0 0 1 1 2.5v-1a.5.5 0 0 1 .5-.5zm9.5 2V2H4v1a3.5 3.5 0 0 0 3.5 3.5h1A3.5 3.5 0 0 0 12 3zm-9.9-1A3.5 3.5 0 0 0 4 4.35V2H2.1zM13.9 2H12v2.35A3.5 3.5 0 0 0 13.9 2zM4.5 12h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5z"/>
       <circle cx="8" cy="4.2" r="3.2" fill="#16161e"/>
       <circle cx="8" cy="4.2" r="2.8" fill="url(#grad_unstop)"/>
       <text x="8" y="5.7" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="900" font-size="5" fill="#ffffff">Amb</text>
-    </svg>
+    </g>
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Unstop Lead</text>

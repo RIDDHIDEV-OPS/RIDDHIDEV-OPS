@@ -269,7 +269,7 @@ I am passionate about turning complex ideas into high-impact software—from **G
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="achievements.svg" alt="Real Achievements & Honors Trophies" />
+  <img src="https://raw.githubusercontent.com/RIDDHIDEV-OPS/RIDDHIDEV-OPS/main/achievements.svg" alt="Real Achievements & Honors Trophies" />
 </p>
 
 ## 🐍 Contribution Snake
