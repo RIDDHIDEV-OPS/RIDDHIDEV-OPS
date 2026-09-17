@@ -1,0 +1,235 @@
+<svg width="850" height="290" viewBox="0 0 850 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="mBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#11121d" />
+      <stop offset="50%" stop-color="#151728" />
+      <stop offset="100%" stop-color="#1a1b2e" />
+    </linearGradient>
+
+    <linearGradient id="mBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#ff007f" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#70a5fd" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Language Bar Gradients -->
+    <linearGradient id="gradPython" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#388bfd" />
+      <stop offset="70%" stop-color="#00f5d4" />
+      <stop offset="100%" stop-color="#70ffeb" />
+    </linearGradient>
+
+    <linearGradient id="gradCpp" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f538d" />
+      <stop offset="70%" stop-color="#58a6ff" />
+      <stop offset="100%" stop-color="#a5d6ff" />
+    </linearGradient>
+
+    <linearGradient id="gradJS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7928ca" />
+      <stop offset="70%" stop-color="#ff007f" />
+      <stop offset="100%" stop-color="#ff99c8" />
+    </linearGradient>
+
+    <linearGradient id="gradSQL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00875a" />
+      <stop offset="70%" stop-color="#00e676" />
+      <stop offset="100%" stop-color="#69f0ae" />
+    </linearGradient>
+
+    <linearGradient id="gradJupyter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d97706" />
+      <stop offset="70%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fef08a" />
+    </linearGradient>
+
+    <!-- Shimmer Glare -->
+    <linearGradient id="shimmerGlare" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <style>
+      @keyframes shimmerSweep {
+        0% { transform: translateX(-150px); }
+        50%, 100% { transform: translateX(450px); }
+      }
+      @keyframes radarHexBreath {
+        0%, 100% { transform: scale(0.96); opacity: 0.75; }
+        50% { transform: scale(1.03); opacity: 1; filter: drop-shadow(0 0 6px #00f5d4); }
+      }
+      @keyframes orbitSatellite {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes pulseDotLive {
+        0%, 100% { fill: #00e676; filter: drop-shadow(0 0 2px #00e676); }
+        50% { fill: #00f5d4; filter: drop-shadow(0 0 8px #00f5d4); }
+      }
+
+      .shimmer-light {
+        animation: shimmerSweep 3.2s ease-in-out infinite;
+      }
+      .hex-shape {
+        transform-origin: 155px 170px;
+        animation: radarHexBreath 4s ease-in-out infinite;
+      }
+      .orbit-arm {
+        transform-origin: 155px 170px;
+        animation: orbitSatellite 8s linear infinite;
+      }
+      .live-dot {
+        animation: pulseDotLive 1.8s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="0.6" y="0.6" width="848.8" height="288.8" rx="14" fill="url(#mBgGrad)" stroke="url(#mBorderGrad)" stroke-width="1.2"/>
+
+  <!-- Top Header Bar -->
+  <rect x="1" y="1" width="848" height="44" rx="14" fill="#171827" fill-opacity="0.9"/>
+  <line x1="1" y1="45" x2="849" y2="45" stroke="#252a42" stroke-width="1"/>
+
+  <!-- Live Pulse Dot & Header Title -->
+  <circle cx="28" cy="23" r="5" class="live-dot"/>
+  <text x="44" y="27" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="12" fill="#00f5d4" letter-spacing="1.2">LANGUAGE VELOCITY &amp; ARCHITECTURE SPECTRUM</text>
+
+  <text x="520" y="27" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#79c0ff">PRIMARY STACK: AI • ML • AGENTS</text>
+
+  <!-- Right Pill -->
+  <rect x="740" y="12" width="94" height="22" rx="11" fill="#1b2836" stroke="#00f5d4" stroke-width="0.8"/>
+  <circle cx="752" cy="23" r="3.5" fill="#00e676"/>
+  <text x="763" y="26.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="10" fill="#00f5d4" letter-spacing="0.5">OPTIMIZED</text>
+
+  <!-- ================= LEFT SECTION: HEXAGONAL RADAR / SKILL ARCHITECTURE ================= -->
+  <text x="28" y="74" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="13" fill="#70a5fd">🧠 Skill Topology Radar</text>
+  <text x="28" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="10.5" fill="#7982a9">Multi-disciplinary technical equilibrium</text>
+
+  <!-- Hexagonal Radar Grid -->
+  <g stroke="#22273c" stroke-width="1" fill="none">
+    <!-- Outer Hex -->
+    <polygon points="155,100 216,135 216,205 155,240 94,205 94,135"/>
+    <!-- Middle Hex -->
+    <polygon points="155,123 196,147 196,193 155,217 114,193 114,147"/>
+    <!-- Inner Hex -->
+    <polygon points="155,147 175,158 175,182 155,193 135,182 135,158"/>
+    <!-- Axes lines -->
+    <line x1="155" y1="100" x2="155" y2="240"/>
+    <line x1="94" y1="135" x2="216" y2="205"/>
+    <line x1="94" y1="205" x2="216" y2="135"/>
+  </g>
+
+  <!-- Active Animated Skill Polygon -->
+  <!-- Values: GenAI: 95%, DL: 90%, Data: 85%, Systems: 80%, Cloud: 85%, RAG: 95% -->
+  <polygon points="155,104 210,138 206,200 155,232 102,198 99,138" fill="#00f5d4" fill-opacity="0.22" stroke="#00f5d4" stroke-width="2" class="hex-shape"/>
+
+  <!-- Rotating Satellite Tracker Arm -->
+  <g class="orbit-arm">
+    <circle cx="155" cy="100" r="4" fill="#ff007f" style="filter: drop-shadow(0 0 4px #ff007f);"/>
+  </g>
+
+  <!-- Radar Axis Labels -->
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="9" fill="#8b949e" text-anchor="middle">
+    <text x="155" y="93" fill="#00f5d4">GenAI &amp; Agents</text>
+    <text x="245" y="137" fill="#70a5fd">Deep Learning</text>
+    <text x="245" y="210" fill="#bd93f9">Data Science &amp; BI</text>
+    <text x="155" y="254" fill="#ffd700">RAG &amp; Vector DBs</text>
+    <text x="65" y="210" fill="#58a6ff">C++ &amp; Systems</text>
+    <text x="65" y="137" fill="#ff79c6">Fullstack &amp; Cloud</text>
+  </g>
+
+  <!-- Vertical Separator -->
+  <line x1="315" y1="58" x2="315" y2="275" stroke="#252a42" stroke-width="1.2"/>
+
+  <!-- ================= RIGHT SECTION: ANIMATED LANGUAGE VELOCITY BARS ================= -->
+  <text x="340" y="74" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="13" fill="#00f5d4">⚡ Production Language Velocity &amp; Distribution</text>
+  <text x="340" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="10.5" fill="#7982a9">Real-time commit ratio, codebase volume &amp; framework orchestration</text>
+
+  <!-- Clip Paths for Shimmer on each bar -->
+  <clipPath id="clipPy"><rect x="340" y="112" width="370" height="12" rx="6"/></clipPath>
+  <clipPath id="clipCpp"><rect x="340" y="144" width="200" height="12" rx="6"/></clipPath>
+  <clipPath id="clipJS"><rect x="340" y="176" width="160" height="12" rx="6"/></clipPath>
+  <clipPath id="clipSQL"><rect x="340" y="208" width="100" height="12" rx="6"/></clipPath>
+  <clipPath id="clipJup"><rect x="340" y="240" width="80" height="12" rx="6"/></clipPath>
+
+  <!-- BAR 1: Python -->
+  <g>
+    <text x="340" y="107" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#c9d1d9">Python <tspan font-weight="500" font-size="9.5" fill="#8b949e">(LangChain, PyTorch, FastAPI, Pandas)</tspan></text>
+    <text x="815" y="122" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-weight="800" font-size="12" fill="#00f5d4">42%</text>
+    <!-- Track -->
+    <rect x="340" y="112" width="420" height="12" rx="6" fill="#1b1e2e"/>
+    <!-- Active Bar -->
+    <rect x="340" y="112" width="370" height="12" rx="6" fill="url(#gradPython)"/>
+    <!-- Shimmer Glare -->
+    <g clip-path="url(#clipPy)">
+      <rect x="340" y="112" width="90" height="12" fill="url(#shimmerGlare)" class="shimmer-light"/>
+    </g>
+  </g>
+
+  <!-- BAR 2: C++ -->
+  <g>
+    <text x="340" y="139" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#c9d1d9">C++ <tspan font-weight="500" font-size="9.5" fill="#8b949e">(DSA, High-Performance Computing, Algorithms)</tspan></text>
+    <text x="815" y="154" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-weight="800" font-size="12" fill="#58a6ff">22%</text>
+    <!-- Track -->
+    <rect x="340" y="144" width="420" height="12" rx="6" fill="#1b1e2e"/>
+    <!-- Active Bar -->
+    <rect x="340" y="144" width="200" height="12" rx="6" fill="url(#gradCpp)"/>
+    <!-- Shimmer Glare -->
+    <g clip-path="url(#clipCpp)">
+      <rect x="340" y="144" width="90" height="12" fill="url(#shimmerGlare)" class="shimmer-light" style="animation-delay: 0.5s;"/>
+    </g>
+  </g>
+
+  <!-- BAR 3: JavaScript / Web -->
+  <g>
+    <text x="340" y="171" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#c9d1d9">JavaScript / TypeScript <tspan font-weight="500" font-size="9.5" fill="#8b949e">(Streamlit, UI, API Integration)</tspan></text>
+    <text x="815" y="186" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-weight="800" font-size="12" fill="#ff79c6">18%</text>
+    <!-- Track -->
+    <rect x="340" y="176" width="420" height="12" rx="6" fill="#1b1e2e"/>
+    <!-- Active Bar -->
+    <rect x="340" y="176" width="160" height="12" rx="6" fill="url(#gradJS)"/>
+    <!-- Shimmer Glare -->
+    <g clip-path="url(#clipJS)">
+      <rect x="340" y="176" width="90" height="12" fill="url(#shimmerGlare)" class="shimmer-light" style="animation-delay: 1.0s;"/>
+    </g>
+  </g>
+
+  <!-- BAR 4: SQL & Vector DBs -->
+  <g>
+    <text x="340" y="203" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#c9d1d9">SQL &amp; Vector DBs <tspan font-weight="500" font-size="9.5" fill="#8b949e">(PostgreSQL, ChromaDB, FAISS)</tspan></text>
+    <text x="815" y="218" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-weight="800" font-size="12" fill="#00e676">10%</text>
+    <!-- Track -->
+    <rect x="340" y="208" width="420" height="12" rx="6" fill="#1b1e2e"/>
+    <!-- Active Bar -->
+    <rect x="340" y="208" width="100" height="12" rx="6" fill="url(#gradSQL)"/>
+    <!-- Shimmer Glare -->
+    <g clip-path="url(#clipSQL)">
+      <rect x="340" y="208" width="90" height="12" fill="url(#shimmerGlare)" class="shimmer-light" style="animation-delay: 1.5s;"/>
+    </g>
+  </g>
+
+  <!-- BAR 5: Jupyter -->
+  <g>
+    <text x="340" y="235" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#c9d1d9">Jupyter Notebooks <tspan font-weight="500" font-size="9.5" fill="#8b949e">(EDA, Model Evaluation, Benchmarking)</tspan></text>
+    <text x="815" y="250" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-weight="800" font-size="12" fill="#ffd700">8%</text>
+    <!-- Track -->
+    <rect x="340" y="240" width="420" height="12" rx="6" fill="#1b1e2e"/>
+    <!-- Active Bar -->
+    <rect x="340" y="240" width="80" height="12" rx="6" fill="url(#gradJupyter)"/>
+    <!-- Shimmer Glare -->
+    <g clip-path="url(#clipJup)">
+      <rect x="340" y="240" width="90" height="12" fill="url(#shimmerGlare)" class="shimmer-light" style="animation-delay: 2.0s;"/>
+    </g>
+  </g>
+
+  <!-- Under-Bars Badges -->
+  <g transform="translate(340, 264)" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5">
+    <text x="0" y="10" fill="#00f5d4" font-weight="700">⚡ 15+ Merged PRs</text>
+    <text x="140" y="10" fill="#70a5fd" font-weight="700">📦 34 Repositories</text>
+    <text x="280" y="10" fill="#ff79c6" font-weight="700">🏆 1st Place Hackathon Winner</text>
+    <text x="420" y="10" fill="#ffd700" font-weight="700">🌐 GSA &amp; GSSoC '26</text>
+  </g>
+</svg>

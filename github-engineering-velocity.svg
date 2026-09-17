@@ -1,0 +1,247 @@
+<svg width="850" height="320" viewBox="0 0 850 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="vBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#11121d" />
+      <stop offset="50%" stop-color="#151728" />
+      <stop offset="100%" stop-color="#1a1b2e" />
+    </linearGradient>
+
+    <linearGradient id="vBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#70a5fd" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#00f5d4" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#7928ca" stop-opacity="0.6" />
+    </linearGradient>
+
+    <linearGradient id="areaGradCyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.45" />
+      <stop offset="50%" stop-color="#388bfd" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#11121d" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="areaGradPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#7928ca" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#11121d" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f5d4" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00f5d4" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="flameGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ff007f" />
+      <stop offset="60%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fef08a" />
+    </linearGradient>
+
+    <style>
+      @keyframes laserScan {
+        0% { transform: translateX(0px); }
+        50% { transform: translateX(420px); }
+        100% { transform: translateX(0px); }
+      }
+      @keyframes areaBreath {
+        0%, 100% { opacity: 0.85; }
+        50% { opacity: 1; }
+      }
+      @keyframes nodeGlow {
+        0%, 100% { r: 4px; opacity: 0.8; filter: drop-shadow(0 0 3px #00f5d4); }
+        50% { r: 6.5px; opacity: 1; filter: drop-shadow(0 0 8px #00f5d4); }
+      }
+      @keyframes haloPulse {
+        0% { r: 5px; opacity: 0.9; stroke-width: 2px; }
+        100% { r: 18px; opacity: 0; stroke-width: 0.5px; }
+      }
+      @keyframes flameBlink {
+        0%, 100% { filter: drop-shadow(0 0 6px #f59e0b); transform: scale(1); }
+        50% { filter: drop-shadow(0 0 14px #ff007f); transform: scale(1.06); }
+      }
+      @keyframes ringSpinSlow {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes sparkBarGrow {
+        0%, 100% { transform: scaleY(0.4); }
+        50% { transform: scaleY(1); }
+      }
+      @keyframes statusLivePulse {
+        0%, 100% { fill: #00e676; filter: drop-shadow(0 0 2px #00e676); }
+        50% { fill: #00f5d4; filter: drop-shadow(0 0 8px #00f5d4); }
+      }
+
+      .laser-head {
+        animation: laserScan 7s ease-in-out infinite;
+      }
+      .waveform-area {
+        animation: areaBreath 4s ease-in-out infinite;
+      }
+      .pulse-node {
+        animation: nodeGlow 2.5s ease-in-out infinite;
+      }
+      .node-halo {
+        animation: haloPulse 2.5s cubic-bezier(0.1, 0.4, 0.6, 1) infinite;
+      }
+      .flame-center {
+        transform-origin: 730px 150px;
+        animation: flameBlink 2.2s ease-in-out infinite;
+      }
+      .ring-spin {
+        transform-origin: 730px 150px;
+        animation: ringSpinSlow 16s linear infinite;
+      }
+      .live-dot {
+        animation: statusLivePulse 1.8s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="0.6" y="0.6" width="848.8" height="318.8" rx="14" fill="url(#vBgGrad)" stroke="url(#vBorderGrad)" stroke-width="1.2"/>
+
+  <!-- Header -->
+  <rect x="1" y="1" width="848" height="44" rx="14" fill="#171827" fill-opacity="0.9"/>
+  <line x1="1" y1="45" x2="849" y2="45" stroke="#252a42" stroke-width="1"/>
+
+  <!-- Live Status & Title -->
+  <circle cx="28" cy="23" r="5" class="live-dot"/>
+  <text x="44" y="27" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="12" fill="#70a5fd" letter-spacing="1.2">ENGINEERING VELOCITY &amp; COMMIT PULSE</text>
+
+  <text x="450" y="27" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#8b949e">CYCLE: 2025 – 2026</text>
+
+  <!-- Realtime Tag Badge -->
+  <rect x="710" y="12" width="124" height="22" rx="11" fill="#1b2836" stroke="#70a5fd" stroke-width="0.8"/>
+  <circle cx="722" cy="23" r="3.5" fill="#00e676"/>
+  <text x="733" y="26.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="10" fill="#70a5fd" letter-spacing="0.5">VELOCITY: PEAK</text>
+
+  <!-- ================= LEFT SECTION: 12-MONTH CONTRIBUTION WAVEFORM ================= -->
+  <text x="28" y="74" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="13" fill="#00f5d4">📈 12-Month Code Cadence &amp; Contribution Waveform</text>
+  <text x="28" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="10.5" fill="#7982a9">Continuous integration, pull request velocity &amp; agentic pipeline updates</text>
+
+  <!-- Y-Axis Grid Lines & Labels -->
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="9" fill="#58607a">
+    <text x="50" y="118" text-anchor="end">25</text>
+    <line x1="58" y1="115" x2="550" y2="115" stroke="#22273c" stroke-width="0.8" stroke-dasharray="2,3"/>
+
+    <text x="50" y="148" text-anchor="end">15</text>
+    <line x1="58" y1="145" x2="550" y2="145" stroke="#22273c" stroke-width="0.8" stroke-dasharray="2,3"/>
+
+    <text x="50" y="178" text-anchor="end">5</text>
+    <line x1="58" y1="175" x2="550" y2="175" stroke="#22273c" stroke-width="0.8" stroke-dasharray="2,3"/>
+
+    <text x="50" y="208" text-anchor="end">0</text>
+    <line x1="58" y1="205" x2="550" y2="205" stroke="#252a42" stroke-width="1.2"/>
+  </g>
+
+  <!-- X-Axis Months -->
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="9" fill="#7982a9" text-anchor="middle">
+    <text x="70" y="222">Oct</text>
+    <text x="112" y="222">Nov</text>
+    <text x="154" y="222">Dec</text>
+    <text x="196" y="222">Jan</text>
+    <text x="238" y="222">Feb</text>
+    <text x="280" y="222">Mar</text>
+    <text x="322" y="222">Apr</text>
+    <text x="364" y="222">May</text>
+    <text x="406" y="222">Jun</text>
+    <text x="448" y="222">Jul</text>
+    <text x="490" y="222">Aug</text>
+    <text x="532" y="222">Sep</text>
+  </g>
+
+  <!-- SVG Area Waveform (Layer 1: Purple PRs Area) -->
+  <path d="M 70 205 L 70 190 Q 112 180, 154 150 T 238 185 T 322 165 T 406 175 T 490 145 L 532 125 L 532 205 Z" fill="url(#areaGradPurple)" class="waveform-area"/>
+  <!-- Stroke Layer 1 -->
+  <path d="M 70 190 Q 112 180, 154 150 T 238 185 T 322 165 T 406 175 T 490 145 L 532 125" fill="none" stroke="#ff007f" stroke-width="1.8" opacity="0.75"/>
+
+  <!-- SVG Area Waveform (Layer 2: Cyan Primary Commits Area) -->
+  <path d="M 70 205 L 70 180 Q 112 125, 154 120 T 238 170 T 322 145 T 406 155 T 490 120 L 532 108 L 532 205 Z" fill="url(#areaGradCyan)" class="waveform-area"/>
+  <!-- Stroke Layer 2 -->
+  <path d="M 70 180 Q 112 125, 154 120 T 238 170 T 322 145 T 406 155 T 490 120 L 532 108" fill="none" stroke="#00f5d4" stroke-width="2.5" style="filter: drop-shadow(0 0 4px #00f5d4);"/>
+
+  <!-- Glowing Peak Nodes & Halo Pulses -->
+  <!-- Peak 1: Create4Cause Hackathon -->
+  <circle cx="154" cy="120" r="5" stroke="#00f5d4" fill="none" class="node-halo"/>
+  <circle cx="154" cy="120" r="4.5" fill="#00f5d4" class="pulse-node"/>
+
+  <!-- Peak 2: GSSoC & IIT KGP -->
+  <circle cx="322" cy="145" r="5" stroke="#70a5fd" fill="none" class="node-halo" style="animation-delay: 0.8s;"/>
+  <circle cx="322" cy="145" r="4.5" fill="#70a5fd" class="pulse-node" style="animation-delay: 0.8s;"/>
+
+  <!-- Peak 3: TwinMind & Hacktoberfest -->
+  <circle cx="532" cy="108" r="5" stroke="#00f5d4" fill="none" class="node-halo" style="animation-delay: 1.6s;"/>
+  <circle cx="532" cy="108" r="4.5" fill="#00f5d4" class="pulse-node" style="animation-delay: 1.6s;"/>
+
+  <!-- Traveling Laser Scanner Line (Sweeps across timeline) -->
+  <g class="laser-head" transform="translate(70, 0)">
+    <line x1="0" y1="102" x2="0" y2="205" stroke="url(#laserGrad)" stroke-width="2.5"/>
+    <circle cx="0" cy="145" r="3" fill="#ffffff" style="filter: drop-shadow(0 0 4px #00f5d4);"/>
+  </g>
+
+  <!-- Mini Legend Under Chart -->
+  <g transform="translate(68, 242)" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5">
+    <rect x="0" y="2" width="10" height="10" rx="2" fill="#00f5d4"/>
+    <text x="16" y="11" fill="#c9d1d9" font-weight="600">Production Commits &amp; AI Builds</text>
+
+    <rect x="190" y="2" width="10" height="10" rx="2" fill="#ff007f"/>
+    <text x="206" y="11" fill="#c9d1d9" font-weight="600">Pull Requests &amp; Code Reviews</text>
+
+    <circle cx="370" cy="7" r="4" fill="#00e676"/>
+    <text x="382" y="11" fill="#70a5fd" font-weight="700">99.4% Pipeline Uptime</text>
+  </g>
+
+  <!-- Velocity Summary Badges -->
+  <g transform="translate(68, 266)">
+    <rect x="0" y="0" width="145" height="38" rx="6" fill="#151726" stroke="#252a42" stroke-width="1"/>
+    <text x="12" y="16" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="14" fill="#00f5d4">25 / Wk</text>
+    <text x="12" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9.5" fill="#8b949e">Peak Velocity</text>
+
+    <rect x="160" y="0" width="145" height="38" rx="6" fill="#151726" stroke="#252a42" stroke-width="1"/>
+    <text x="172" y="16" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="14" fill="#70a5fd">&lt; 2 Hours</text>
+    <text x="172" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9.5" fill="#8b949e">Avg PR Turnaround</text>
+
+    <rect x="320" y="0" width="155" height="38" rx="6" fill="#151726" stroke="#252a42" stroke-width="1"/>
+    <text x="332" y="16" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="14" fill="#ffd700">100% Verified</text>
+    <text x="332" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9.5" fill="#8b949e">Test Suite Coverage</text>
+  </g>
+
+  <!-- Vertical Separator -->
+  <line x1="575" y1="58" x2="575" y2="305" stroke="#252a42" stroke-width="1.2"/>
+
+  <!-- ================= RIGHT SECTION: STREAK & CONSISTENCY ENGINE ================= -->
+  <text x="600" y="74" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="13" fill="#70a5fd">🔥 Consistency Engine</text>
+  <text x="600" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="10.5" fill="#7982a9">Real-time sprint cadence</text>
+
+  <!-- Orbiting Flame Gauge -->
+  <g>
+    <!-- Background circle -->
+    <circle cx="712" cy="155" r="54" fill="#141624" stroke="#22273c" stroke-width="2"/>
+    <!-- Outer spinning dotted ring -->
+    <circle cx="712" cy="155" r="62" fill="none" stroke="#70a5fd" stroke-width="1.5" stroke-dasharray="6,8" class="ring-spin"/>
+    <!-- Glowing meter arc -->
+    <circle cx="712" cy="155" r="54" fill="none" stroke="url(#flameGrad)" stroke-width="3.5" stroke-dasharray="270, 80" stroke-linecap="round"/>
+
+    <!-- Center Flame Symbol -->
+    <g class="flame-center">
+      <path d="M 712 135 C 716 142, 722 147, 722 154 C 722 161, 717 166, 712 166 C 707 166, 702 161, 702 154 C 702 146, 709 141, 712 135 Z" fill="url(#flameGrad)"/>
+      <path d="M 712 147 C 714 151, 717 154, 717 157 C 717 160, 715 163, 712 163 C 709 163, 707 160, 707 157 C 707 154, 711 150, 712 147 Z" fill="#ffffff"/>
+    </g>
+
+    <!-- Streak Metric Under Flame -->
+    <text x="712" y="185" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="800" font-size="16" fill="#ffffff">102</text>
+    <text x="712" y="198" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="9.5" fill="#8b949e">CONTRIBUTIONS</text>
+  </g>
+
+  <!-- Streak Highlights Card Deck -->
+  <g transform="translate(600, 230)">
+    <rect x="0" y="0" width="224" height="32" rx="6" fill="#151726" stroke="#252a42" stroke-width="1"/>
+    <text x="12" y="20" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11" fill="#00f5d4">⚡ Current Streak:</text>
+    <text x="212" y="20" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="11" fill="#ffffff">Active / Daily</text>
+
+    <rect x="0" y="38" width="224" height="32" rx="6" fill="#151726" stroke="#252a42" stroke-width="1"/>
+    <text x="12" y="58" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11" fill="#f59e0b">🔥 Longest Sprint:</text>
+    <text x="212" y="58" text-anchor="end" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="11" fill="#ffffff">Continuous PRs</text>
+  </g>
+</svg>

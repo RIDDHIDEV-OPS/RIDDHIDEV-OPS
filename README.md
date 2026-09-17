@@ -258,13 +258,16 @@ I am passionate about turning complex ideas into high-impact software—from **G
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDDHIDEV-OPS&theme=tokyonight" alt="GitHub profile details" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIDEV-OPS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/RIDDHIDEV-OPS/RIDDHIDEV-OPS/main/github-engineering-velocity.svg" alt="Engineering Velocity & Commit Pulse" width="850" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RIDDHIDEV-OPS&theme=tokyonight" alt="Top languages" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RIDDHIDEV-OPS&theme=tokyonight" alt="Most commit languages" />
+  <img src="https://raw.githubusercontent.com/RIDDHIDEV-OPS/RIDDHIDEV-OPS/main/github-tech-matrix.svg" alt="Language Velocity & Skill Matrix" width="850" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDDHIDEV-OPS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDDHIDEV-OPS&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
 ## 🏆 Achievements
