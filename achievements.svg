@@ -164,7 +164,7 @@
 
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">IIT Kharagpur</text>
-    <text x="55" y="85" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="9.5" fill="#38bdae">RAG & Agentic AI</text>
+    <text x="55" y="85" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="9.5" fill="#38bdae">RAG &amp; Agentic AI</text>
     <text x="55" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9" fill="#79c0ff">FinSight Assistant</text>
 
     <!-- Progress Indicator Bar -->
@@ -225,7 +225,7 @@
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">LLM Security</text>
     <text x="55" y="85" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="9.5" fill="#38bdae">Red Team Leaders</text>
-    <text x="55" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9" fill="#79c0ff">Security Pro '26</text>
+    <text x="55" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9" fill="#79c0ff">Security Pro &#x27;26</text>
 
     <!-- Progress Indicator Bar -->
     <rect x="15" y="102" rx="1.5" width="80" height="3" fill="#2e3440"/>
@@ -245,7 +245,7 @@
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Microsoft AI</text>
     <text x="55" y="85" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="9.5" fill="#38bdae">AI Research Agent</text>
-    <text x="55" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9" fill="#79c0ff">Applied Skills '26</text>
+    <text x="55" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9" fill="#79c0ff">Applied Skills &#x27;26</text>
 
     <!-- Progress Indicator Bar -->
     <rect x="15" y="102" rx="1.5" width="80" height="3" fill="#2e3440"/>
@@ -325,7 +325,7 @@
     <!-- Trophy Card Labels -->
     <text x="55" y="16" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="700" font-size="11.5" fill="#70a5fd">Neo4j Graph</text>
     <text x="55" y="85" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="600" font-size="9.5" fill="#38bdae">Graph Data Science</text>
-    <text x="55" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9" fill="#79c0ff">Certified Pro '25</text>
+    <text x="55" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-weight="500" font-size="9" fill="#79c0ff">Certified Pro &#x27;25</text>
 
     <!-- Progress Indicator Bar -->
     <rect x="15" y="102" rx="1.5" width="80" height="3" fill="#2e3440"/>
