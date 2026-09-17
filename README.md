@@ -251,7 +251,11 @@ I am passionate about turning complex ideas into high-impact software—from **G
 - 👾 **API Learning 101** — *GitHub (May 2026)*
 - 🎮 **Google Cloud Arcade Badge** — *Google Cloud (2025)*
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Live Telemetry
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RIDDHIDEV-OPS/RIDDHIDEV-OPS/main/github-live-activity.svg" alt="Live Telemetry & Activity Spectrum Visualizer" width="850" />
+</p>
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDDHIDEV-OPS&theme=tokyonight" alt="GitHub profile details" />
