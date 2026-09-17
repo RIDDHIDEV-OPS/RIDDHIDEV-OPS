@@ -2,27 +2,38 @@
 
 # Hi there, I'm Riddhi Das 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=850&color=36BCF7&center=true&vCenter=true&width=850&lines=Generative+AI+Engineer;AI+%26+ML+Specialist;LLM+%26+Agentic+Workflows+Architect;1st+Place+Hackathon+Winner+%7C+Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=850&color=36BCF7&center=true&vCenter=true&width=850&lines=Google+Student+Ambassador;Generative+AI+Engineer;1st+Place+Hackathon+Winner;AI+%26+ML+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Welcome%20to%20my%20GitHub&fontSize=42&fontAlignY=38&animation=fadeIn&color=gradient&customColorList=6,11,20" alt="Welcome banner" />
 
-<a href="https://github.com/RIDDHIDEV-OPS"><img src="https://img.shields.io/badge/Profile%20Views-2.5K%2B-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Profile views" /></a>
-<a href="https://github.com/RIDDHIDEV-OPS?tab=followers"><img src="https://img.shields.io/badge/Followers-500%2B-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Followers" /></a>
-<a href="https://linkedin.com/in/riddhi-das-715b3a299"><img src="https://img.shields.io/badge/LinkedIn-500%2B%20Connections-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connections" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Student Ambassador" />
+  <img src="https://img.shields.io/badge/Hackathon_Winner-1st_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Hackathon Winner" />
+  <img src="https://img.shields.io/badge/GSSoC'26-Contributor-orange?style=for-the-badge&logo=gitbook&logoColor=white" alt="GSSoC Contributor" />
+  <img src="https://img.shields.io/badge/Hacktoberfest'25-Super_Contributor-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest Super Contributor" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/RIDDHIDEV-OPS"><img src="https://img.shields.io/badge/GitHub-RIDDHIDEV--OPS-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/riddhi-das-715b3a299"><img src="https://img.shields.io/badge/LinkedIn-Riddhi_Das-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:riddhidas201@gmail.com"><img src="https://img.shields.io/badge/Email-riddhidas201%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
 ## ✨ About me
 
-I am a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Brainware University, Kolkata** (2024 – 2028). I am a **Generative AI Engineer & Software Developer** passionate about turning ideas into reliable, high-impact systems—ranging from **agentic AI workflows**, **fine-tuned LLMs**, and **RAG architectures** to **scalable backend APIs**, **predictive ML models**, and **interactive BI analytics dashboards**.
+I am a Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Brainware University, Kolkata** (2024 – 2028), serving as a **Google Student Ambassador**, **1st Place Hackathon Winner**, and **Open Source Contributor**.
 
-- 🧠 **Generative AI & LLMs:** Designing autonomous multi-agent systems (LangChain, LangGraph, AutoGen, CrewAI, LlamaIndex), RAG pipelines with vector databases, and parameter-efficient fine-tuning (LoRA, QLoRA, PEFT) with rigorous LLM evaluations (RAGAS, TruLens).
-- ⚙️ **Software & System Architecture:** Strong foundation in Data Structures & Algorithms (C++), Object-Oriented Programming, and clean SDLC practices. Crafting modular, high-throughput microservices and APIs with FastAPI, Flask, and REST.
-- 🔬 **Deep Learning & Computer Vision:** Developing deep neural architectures with PyTorch, TensorFlow, Keras, CNNs, and real-time computer vision systems using OpenCV and YOLO.
-- 📊 **Data Engineering & Business Intelligence:** Architecting end-to-end ETL pipelines with Apache Airflow, Apache Spark, and Pandas, alongside enterprise analytical dashboards in Power BI and Tableau.
-- 🏆 **Hackathons & Open Source:** 1st Place Winner at Create4Cause Hackathon 2025; Hacktoberfest Super Contributor (15+ merged PRs across 5+ repos); GSSoC 2026 AI Agents open-source contributor.
+I am passionate about turning complex ideas into high-impact software—from **Generative AI systems**, **multi-agent architectures**, and **RAG pipelines** to **predictive machine learning models**, **scalable backend APIs**, and **enterprise BI analytics dashboards**.
 
-> **Note:** I value engineering depth, maintainability, and real-world evaluation over hype. Every project is built to be robust, reproducible, and production-ready.
+- 🎓 **Leadership & Community:** Google Student Ambassador & Unstop Campus Ambassador, empowering student developers and fostering tech innovation.
+- 🧠 **Generative AI & LLMs:** Designing autonomous multi-agent systems (LangChain, LangGraph, AutoGen, CrewAI, LlamaIndex), fine-tuning models (LoRA, QLoRA, PEFT), and implementing rigorous evaluations (RAGAS, TruLens).
+- 🏆 **Hackathons & Competitions:** 1st Place Winner at **Create4Cause Hackathon 2025** with a cash prize of ₹5,000; finalist at **IIT Kharagpur RAG & Agentic AI Hackathon**; participant at **NEXATHON 1.0**.
+- 🌐 **Open Source:** Hacktoberfest 2025 Super Contributor (15+ accepted PRs across 5+ repositories) & GirlScript Summer of Code (GSSoC 2026) selected contributor on the AI Agents track.
+- 📊 **Data Science & BI:** Experienced in exploratory data analysis (EDA), ETL pipelines, and interactive multi-page business dashboards (Power BI, Tableau, Python).
+
+> **Philosophy:** *“Engineering depth, clean code, and empirical evaluation over buzzwords.”*
 
 ## 🤝 Connect with me
 
@@ -31,6 +42,116 @@ I am a Computer Science & Engineering student specializing in **Artificial Intel
   <a href="https://linkedin.com/in/riddhi-das-715b3a299"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:riddhidas201@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+## 🏆 Real Honors & Verified Achievements
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Badge</th>
+      <th>Achievement / Honor</th>
+      <th>Organization / Host</th>
+      <th>Details & Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🥇</td>
+      <td><strong>1st Place Winner — CREATE4CAUSE Hackathon 2025</strong></td>
+      <td>DevNest BIET (Birbhum Institute of Engineering & Technology) × HackWithIndia</td>
+      <td>Competed as part of Team <strong>TechNova & The BroCoders</strong> on Sept 13–14, 2025. Secured <strong>1st Position</strong> with a cash prize of <strong>₹5,000</strong> for engineering the <em>Fake News Detector</em> NLP/ML solution.</td>
+    </tr>
+    <tr>
+      <td align="center">🎓</td>
+      <td><strong>Google Student Ambassador</strong></td>
+      <td>Google Student Community</td>
+      <td>Selected to represent and lead campus developer initiatives, driving workshops and fostering student learning in Cloud & AI.</td>
+    </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td><strong>Hacktoberfest 2025 Super Contributor</strong></td>
+      <td>GitHub × DigitalOcean</td>
+      <td>Earned official <strong>Super Contributor</strong> status by submitting and merging <strong>15+ accepted pull requests</strong> across 5+ open-source repositories.</td>
+    </tr>
+    <tr>
+      <td align="center">🌐</td>
+      <td><strong>GSSoC 2026 Contributor Selection</strong></td>
+      <td>GirlScript Summer of Code</td>
+      <td>Selected as open-source contributor under the <strong>AI Agents</strong> and Open Source tracks; collaborating with global maintainers on real-world projects.</td>
+    </tr>
+    <tr>
+      <td align="center">🌟</td>
+      <td><strong>NEXATHON 1.0 Participant</strong></td>
+      <td>Brainware University (Sep 2025)</td>
+      <td>Inter-departmental hackathon strengthening competitive rapid prototyping and cross-functional team collaboration.</td>
+    </tr>
+    <tr>
+      <td align="center">🚀</td>
+      <td><strong>IIT Kharagpur Hackathon Finalist</strong></td>
+      <td>IIT Kharagpur (2025)</td>
+      <td>Submitted <em>FinSight</em>, a 5-layer autonomous agent financial research assistant to the <strong>RAG and Agentic AI Hackathon</strong>.</td>
+    </tr>
+    <tr>
+      <td align="center">🤝</td>
+      <td><strong>Unstop Campus Ambassador</strong></td>
+      <td>Unstop (2025)</td>
+      <td>Represented Unstop on campus to connect students with premier hackathons, internships, and hiring challenges.</td>
+    </tr>
+    <tr>
+      <td align="center">🎮</td>
+      <td><strong>Google Cloud Arcade Badge</strong></td>
+      <td>Google Cloud (2025)</td>
+      <td>Hands-on completion of Google Cloud skill badges covering cloud architecture, compute, and data analytics.</td>
+    </tr>
+  </tbody>
+</table>
+
+## 📜 Verified Professional Certifications & Credentials
+
+### 🤖 AI, LLM & Machine Learning
+- 🛡️ **Certified LLM Security Professional (CLLMSP)** — *Red Team Leaders (Jun 2026)*
+- 🌐 **Microsoft AI Skills Fest 2026** — *Microsoft (Jun 2026)*
+- 🤖 **Microsoft Applied Skills: Generate Reports with AI Research Agents** — *Microsoft (May 2026)*
+- 🗣️ **Microsoft Applied Skills: Build an NLP Solution with Azure AI Language** — *Microsoft (Feb 2026)*
+- 🎓 **Google AI Professional Certificate (7 courses)** — *Google / Coursera (2026)*
+- ☁️ **Generative AI Leader Professional Certificate (5 courses)** — *Google Cloud / Coursera (2026)*
+- 🛡️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — *Oracle (Aug 2025 – Aug 2027)*
+- 🌟 **Gemini Certified Student** — *Google (Oct 2025)*
+- 💼 **GenAI Powered Data Analytics Job Simulation** — *Forage / Tata Consultancy Services (Jul 2025)*
+
+### 📊 Graph Databases, Data Science & Analytics
+- 📈 **Neo4j Graph Data Science Certification** — *Neo4j (Nov 2025)*
+- 🗄️ **Neo4j Certified Professional** — *Neo4j (Jul 2025)*
+- 📊 **Power BI & Data Analytics Job Simulations** — *Enterprise Data Analytics & Modeling (2025–2026)*
+
+### 🔐 Cybersecurity & Open Source Community
+- 🔐 **Certificate Course in Cybersecurity Essentials** — *NIIT Foundation (2025)*
+- 🛡️ **Cybersecurity Analyst Job Simulation** — *Forage / Tata Consultancy Services (Jul 2025)*
+- 👾 **API Learning 101** — *GitHub (May 2026)*
+
+## 🚀 Flagship Projects
+
+### 🔹 [TwinMind – Edge AI Platform for Predictive Maintenance](https://github.com/RIDDHIDEV-OPS) (2026)
+- Led a 4-member engineering team building an industrial GenAI platform combining digital twins, predictive maintenance, and real-time anomaly detection.
+- Engineered a RAG-powered AI copilot using **FAISS** with **Groq/Ollama LLMs** and a **LangChain** orchestration layer for natural-language equipment telemetry queries.
+- Trained an **XGBoost** predictive maintenance model (98% confidence) with **SHAP** explainability and **Isolation Forest** anomaly detection; served via **FastAPI** with an interactive **Streamlit** dashboard.
+
+### 🔹 [FinSight – Agentic Financial Research Assistant](https://github.com/RIDDHIDEV-OPS) (2025)
+- Designed a 5-layer autonomous agent architecture using **LangGraph** multi-agent orchestration and **ChromaDB** vector store for real-time financial data retrieval and synthesis.
+- Implemented specialized domain sub-agents for real-time market analysis, quantitative risk assessment, and SEC earnings summarization.
+- Submitted to the **IIT Kharagpur RAG and Agentic AI Hackathon**.
+
+### 🔹 [Fake News Detector – NLP Classification Pipeline](https://github.com/RIDDHIDEV-OPS) (2025)
+- **🏆 1st Place Winner** at **Create4Cause Hackathon 2025** (Team TechNova / The BroCoders).
+- Engineered an end-to-end NLP pipeline covering text preprocessing, tokenization, TF-IDF feature extraction, and ML classification to detect real-time misinformation across real-world news corpora.
+
+### 🔹 Enterprise Business Intelligence & Analytics Dashboards (Power BI)
+- **Amazon Prime Video Content Analysis:** Analyzed 9,655+ titles across 519 genres and 5,771 directors (1920–2021) with map and trend visualizations, genre popularity, and rating distributions.
+- **Electric Vehicle Sales Dashboard:** End-to-end analytics covering 3.6M+ EV units sold across India (5 categories, 73 classes, 12 types). Preprocessed data with Python (Pandas, Seaborn) and built geo-mapping quarterly performance dashboards.
+- **HR Attrition Dashboard:** 3-page multi-view Power BI dashboard analyzing attrition across 1,470 employees (16.12% attrition rate). Built with advanced DAX measures, salary distribution (1k–20k), overtime correlation, and job satisfaction slicers.
+- **Patient Emergency Room Visit Analysis:** Analyzed 9,216 ER visits with insights on wait times (35.26 mins avg), satisfaction scores, and demographic breakdowns across 2019–2020.
+- **Sales Performance Dashboard:** Quarterly performance tracker covering 2,008 units, ₹26K profit, and ₹161K revenue with sub-category profitability and payment mode breakdowns.
+- **Starbucks Daily Sales Analysis:** Analyzed 10K orders, 500 customers, and ₹78.4K total revenue with hourly order amount and quantity trends (8 AM–7 PM) for operational planning.
 
 ## 🚀 Technology universe
 
@@ -100,13 +221,15 @@ I am a Computer Science & Engineering student specializing in **Artificial Intel
   <img src="https://img.shields.io/badge/Supervised%20%2F%20Unsupervised_Learning-1E88E5?style=flat-square" alt="ML" />
 </p>
 
-### 🗄️ Vector Databases & Relational Stores
+### 🗄️ Vector Databases & Graph Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" alt="MySQL PostgreSQL" />
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Neo4j_Graph_Data_Science-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j Graph Data Science" />
+  <img src="https://img.shields.io/badge/Neo4j_Certified-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j Certified" />
   <img src="https://img.shields.io/badge/FAISS-009688?style=flat-square" alt="FAISS" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" alt="Pinecone" />
@@ -192,42 +315,11 @@ I am a Computer Science & Engineering student specializing in **Artificial Intel
   - Worked with high-volume structured datasets and executed analytical and statistical reporting tasks aligned with organizational deliverables.
   - Collaborated in distributed engineering sprints, maintaining high data accuracy and deliverable timeliness.
 - 🌐 **Open Source Contributor** — *GirlScript Summer of Code (GSSoC 2026)*
-  - Actively contributed to open-source initiatives under the **AI Agents** and Open Source tracks; pull requests reviewed and approved by global maintainers.
+  - Selected contributor on the **AI Agents** and Open Source tracks; PRs reviewed and merged by global maintainers.
 - ⚡ **Hacktoberfest Super Contributor** — *GitHub (2025)*
   - Merged **15+ pull requests** across **5+ active repositories**, collaborating with 10+ international developers on code reviews and issue resolutions.
 
-## 🚀 Flagship Projects
-
-### 🔹 [TwinMind – Edge AI Platform for Predictive Maintenance](https://github.com/RIDDHIDEV-OPS) (2026)
-- Led a 4-member engineering team building an industrial GenAI platform combining digital twins, predictive maintenance, and real-time anomaly detection.
-- Engineered a RAG-powered AI copilot using **FAISS** with **Groq/Ollama LLMs** and a **LangChain** orchestration layer for natural-language equipment telemetry queries.
-- Trained an **XGBoost** predictive maintenance model (98% confidence) with **SHAP** explainability and **Isolation Forest** anomaly detection; served via **FastAPI** with an interactive **Streamlit** dashboard.
-
-### 🔹 [FinSight – Agentic Financial Research Assistant](https://github.com/RIDDHIDEV-OPS) (2025)
-- Designed a 5-layer autonomous agent architecture using **LangGraph** multi-agent orchestration and **ChromaDB** vector store for real-time financial data retrieval and synthesis.
-- Implemented specialized domain sub-agents for real-time market analysis, quantitative risk assessment, and SEC earnings summarization.
-- Submitted to the prestigious **IIT Kharagpur RAG and Agentic AI Hackathon**.
-
-### 🔹 [Fake News Detector – NLP Classification Pipeline](https://github.com/RIDDHIDEV-OPS) (2025)
-- **🏆 1st Place Winner** at **Create4Cause Hackathon 2025** (Team TechNova / The BroCoders).
-- Engineered an end-to-end NLP pipeline covering text preprocessing, tokenization, TF-IDF feature extraction, and ML classification to detect real-time misinformation across real-world news corpora.
-
-### 🔹 [Enterprise BI & Data Analytics Dashboards](https://github.com/RIDDHIDEV-OPS) (2026)
-- **HR Attrition Dashboard (Power BI):** Analyzed 1,470+ employee records to identify attrition trends across departments and roles; built a 5-page interactive dashboard tracking key metrics including 16.12% attrition rate and work-life balance scores.
-- **Amazon Prime Video Content Analysis (Power BI):** Evaluated 9,655+ titles across 519 genres spanning 1920–2021 with geospatial mapping, category growth patterns, and content distribution ratings.
-- **Electric Vehicle Sales Dashboard (Power BI & Python):** Cleaned, transformed, and modeled 3.6M+ EV sales across 73 vehicle categories with state-wise, quarterly trends using Python (Pandas, Matplotlib, Seaborn) and Power BI.
-
-## 📜 Certifications & Honors
-
-- 🥇 **Create4Cause Hackathon Winner (1st Place)** — 2025 | Fake News Detector (NLP/ML)
-- 🎓 **Google AI Professional Certificate (7 courses)** — Google / Coursera (2026)
-- ☁️ **Generative AI Leader Professional Certificate (5 courses)** — Google Cloud / Coursera (2026)
-- 🛡️ **Oracle Cloud Infrastructure AI Foundations Associate** — Oracle (2025)
-- 🤖 **Microsoft Applied Skills: Generate Reports with AI Research Agents** — Microsoft (2026)
-- 🌟 **Hacktoberfest Super Contributor** — GitHub (2025) | 15+ Merged PRs
-- 🎮 **Google Arcade Badge** — Google Cloud (2025)
-
-## 📊 GitHub analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIDDHIDEV-OPS&theme=tokyonight" alt="GitHub profile details" />
@@ -240,12 +332,6 @@ I am a Computer Science & Engineering student specializing in **Artificial Intel
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIDDHIDEV-OPS&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-</p>
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=RIDDHIDEV-OPS&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" alt="GitHub trophies" />
 </p>
 
 ## 🐍 Contribution Snake
