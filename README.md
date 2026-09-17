@@ -269,16 +269,7 @@ I am passionate about turning complex ideas into high-impact software—from **G
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=RIDDHIDEV-OPS&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇_Create4Cause_Hackathon_2025-1st_Place_Winner_(₹5,000)-FFD700?style=for-the-badge&logoColor=black" alt="Create4Cause 1st Place" /><br/>
-  <img src="https://img.shields.io/badge/🎓_Google_Student_Ambassador-Campus_Lead-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Student Ambassador" />
-  <img src="https://img.shields.io/badge/🔥_Hacktoberfest_2025-Super_Contributor_(15+_PRs)-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest Super Contributor" /><br/>
-  <img src="https://img.shields.io/badge/🌐_GirlScript_Summer_of_Code_2026-AI_Agents_Track-orange?style=for-the-badge&logo=gitbook&logoColor=white" alt="GSSoC Contributor" />
-  <img src="https://img.shields.io/badge/🚀_IIT_Kharagpur_Hackathon-RAG_&_Agentic_AI_Finalist-00897B?style=for-the-badge" alt="IIT Kharagpur Hackathon Finalist" />
-  <img src="https://img.shields.io/badge/🌟_NEXATHON_1.0-Brainware_University-E91E63?style=for-the-badge" alt="NEXATHON 1.0" />
+  <img src="achievements.svg" alt="Real Achievements & Honors Trophies" />
 </p>
 
 ## 🐍 Contribution Snake
